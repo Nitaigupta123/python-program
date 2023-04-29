@@ -1,0 +1,10 @@
+a=23
+b=34.4
+c='''nitai'''
+d=True
+e=None
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
